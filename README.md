@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🚀 Frontend Developer | Seeking Exciting Opportunities 🚀
+
+Hello there! 👋 As a highly motivated frontend developer, I am actively seeking new opportunities in this field. I am thrilled to be a part of the dynamic IT industry, constantly honing my skills and contributing to meaningful projects. 
+My personal qualities and skills have allowed me to take on the role of a team leader in the BookShelf project, and I am committed to continuing my journey of growth and development in my career.
 
 <!--
 **Mishanja123/Mishanja123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
